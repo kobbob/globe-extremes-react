@@ -1,0 +1,17 @@
+{
+  "name": "my-map-three",
+  "version": "1.0.0",
+  "description": "Converting JS and HTML globe extremes map to React",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kate O'Boyle",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "snowpack": "^3.8.8"
+  }
+}
